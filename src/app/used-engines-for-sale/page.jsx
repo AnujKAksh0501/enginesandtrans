@@ -368,7 +368,7 @@ export default async function Work() {
       <Iterator />
       <footer className="bg-gray-200 p-4 text-center">
         <p className="text-sm text-gray-600">
-          &copy; 2023 Engines and Drivetrain
+          &copy; 2023 Engines & Transmissions World
         </p>
       </footer>
       {/* <CaseStudies caseStudies={caseStudies} /> */}
